@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/usr/csshare/pkgs/jdk1.6.0_14_x86_64" version="1.6.0_14">
+<bootpath>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/resources.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/rt.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/sunrsasign.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/jsse.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/jce.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/charsets.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre" version="1.6.0_14">
+<bootpath>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/resources.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/rt.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/sunrsasign.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/jsse.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/jce.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/charsets.jar"/>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/ext"/>
+<entry path="/usr/java/packages/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/usr/csshare/pkgs/jdk1.6.0_14_x86_64/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
